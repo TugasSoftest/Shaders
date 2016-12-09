@@ -1,5 +1,5 @@
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {
 	vec4 solidRed = vec4(1.0,0.0,0.0,1.0);
-   	fragColor = solidRed;
+   	fragColor = solidgreen 
 }
